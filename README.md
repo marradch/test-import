@@ -37,11 +37,10 @@ DB_NAME=test_import_db
 DB_USER=postgres
 DB_PASS=123456
 ```
-```
 
 ## 📁 Структура проекта
 
-```text
+```
 ├── database/              # SQL-файли для схемы
 ├── public/                # index.php – вхід у додаток
 ├── src/

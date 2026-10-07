@@ -5,12 +5,12 @@
 ### 🐳 Запуск проекта
 
 ```bash
-git clone git@github.com:marradch/test-product-clean.git
-cd test-product-clean
+git clone git@github.com:marradch/test-import.git
+cd test-import
 docker-compose up -d --build
 ````
 
-Приложение будет доступно по адресу:
+додаток доступний за адресою:
 **[http://localhost](http://localhost)**
 
 ## 🗃️ БД
@@ -41,7 +41,7 @@ DB_PASS=123456
 
 ## 📁 Структура проекта
 
-```
+```text
 ├── database/              # SQL-файли для схемы
 ├── public/                # index.php – вхід у додаток
 ├── src/

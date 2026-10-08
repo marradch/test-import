@@ -10,6 +10,11 @@ cd test-import
 docker-compose up -d --build
 ````
 
+Встановити бібліотки за допомогою команди
+```
+composer install
+```
+
 додаток доступний за адресою:
 **[http://localhost](http://localhost)**
 
